@@ -1,0 +1,5 @@
+{
+  "name": "kzilla-newsletter-system",
+  "region": "ap-south-1",
+  "main": "stacks/index.ts"
+}
